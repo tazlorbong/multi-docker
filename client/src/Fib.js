@@ -56,7 +56,7 @@ class Fib extends Component {
     return (
       <div>
         <form onSubmit={this.handleSubmit}>
-          <p>First proper EB deployment 1</p>
+          <p>First proper EB deployment 2</p>
           <label>Enter your index:</label>
           <input
             value={this.state.index}
